@@ -11,10 +11,10 @@
  * @invite 6qd3SkP6Ch
 */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css');
+@import url('https://raw.githubusercontent.com/Jan2k17/Vencord-Styles/main/Fallout4Terminal/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
+@import url('https://raw.githubusercontent.com/Jan2k17/Vencord-Styles/main/Fallout4Terminal/crtEffect.css');
 /* ^ This is the CRT effect. If you don't like it, remove or uncomment this line! ^ */
 
 /* CUSTOMIZE COLORS IN HERE! */
@@ -36,7 +36,7 @@
   --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
   --background-brightness: 100%; /* Changes the background images brightness */
   
-  --title-image: url("https://B4T3S.github.io/Fallout4TerminalTheme/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
+  --title-image: url("https://raw.githubusercontent.com/Jan2k17/Vencord-Styles/main/Fallout4Terminal/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
   --title-image-repeat: no-repeat; /* If the title image should repeat */
   --title-image-size: cover; /* The size of the title image */
   --title-image-color: var(--highlight); /* The color used for the title image */
